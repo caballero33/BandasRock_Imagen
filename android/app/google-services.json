@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "179305751269",
+    "project_id": "prueba-uno-7e87d",
+    "storage_bucket": "prueba-uno-7e87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179305751269:android:6d567ea6c0d4bb4c7fea0c",
+        "android_client_info": {
+          "package_name": "com.beta.alceprueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54XOVVtbsTmu_ZrBDkGXghPgdac9JNdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179305751269:android:e2ef63c2d4ebec167fea0c",
+        "android_client_info": {
+          "package_name": "com.example.banda_de_rock_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54XOVVtbsTmu_ZrBDkGXghPgdac9JNdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179305751269:android:9c9f868057ad6f6f7fea0c",
+        "android_client_info": {
+          "package_name": "com.unah.hn.bandas_de_rock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54XOVVtbsTmu_ZrBDkGXghPgdac9JNdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
